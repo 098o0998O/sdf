@@ -515,7 +515,7 @@ export default function Index() {
 
           <div className="border-t border-border/50 pt-6">
             <p className="text-sm text-muted-foreground">
-              © 2024 Wapers. Tüm hakları saklıdır. | Discord v14 Uyumlu Bot
+              © 2025 Wapers. Tüm hakları saklıdır. | Discord v14 Uyumlu Bot
               Altyapıları
             </p>
           </div>
